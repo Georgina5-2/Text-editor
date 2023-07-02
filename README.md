@@ -33,14 +33,29 @@ To run locally:
 
 
 
+
+### IndexedDB
+
 <img width="1205" alt="Text_editor3" src="https://github.com/Georgina5-2/Text-editor/assets/122113060/ca4da949-5551-4405-9588-d2e39befa824">
 
 
 
 
+
+
+### Service Workers
+
 <img width="1919" alt="Text_editor4" src="https://github.com/Georgina5-2/Text-editor/assets/122113060/9f603892-91cd-4d56-93ff-cfa7ea66336b">
 
 
+
+# References:
+
+https://developer.chrome.com/docs/workbox/service-worker-overview/
+
+https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
 
 
 
